@@ -29,3 +29,10 @@ cout << count << endl;
 }
 return 0;
 }
+/*
+input case:
+2
+5 3
+1 2 3 4 1
+output:4
+*/
